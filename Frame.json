@@ -31,6 +31,12 @@
       "category": "Lainnya",
       "title": "4",
       "image_link": "frame/frame4.webp"
+    },
+    {
+      "id": 5,
+      "category": "Lainnya",
+      "title": "5",
+      "image_link": "frame/frame5.webp"
     }
 
   ]
