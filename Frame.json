@@ -1,0 +1,37 @@
+{
+     "Categories": [
+    {
+      "category": "Lainnya",
+      "image_link": "frame/frame1.webp"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "Lainnya",
+      "title": "1",
+      "image_link": "frame/frame1.webp"
+    },
+    {
+      "id": 2,
+      "category": "Lainnya",
+      "title": "2",
+      "image_link": "frame/frame2.webp"
+    },
+    {
+      "id": 3,
+      "category": "Lainnya",
+      "title": "3",
+      "image_link": "frame/frame3.webp"
+    },
+    {
+      "id": 4,
+      "category": "Lainnya",
+      "title": "4",
+      "image_link": "frame/frame4.webp"
+    }
+
+  ]
+}
